@@ -2,6 +2,8 @@
 
 # Table of Contents
 ## Part 1: Getting Started
+1. Introduction
+2. Getting started with the dataset
 
 ## Part 2: Using SKLearn
 1. Splitting datasets and cross validations
@@ -14,14 +16,20 @@
 8. KNN
 8. Decision Trees
 9. Gradient boosting
-10. 
-
+10. Multiclass and Multilabel alrogirhthims
+11. Feature selection
+12. Clustering
+13. Model Evaluation
+14. Model Persistence
 
 ## Part 3: Distributed Computing with Spark
 1. Understanding Spark
 2. Setting up SparkSQL
 2. Basic Operations
-3. Visualizing the Data with Tableau
 4. Machine Learning 
 
-## Part 4: Case Study
+## Part 4: Outside of the PyData ecosystem
+1. Using R for Gradient Boosting
+2. Using Tableau for Visualization
+
+## Part 5: Case Study
