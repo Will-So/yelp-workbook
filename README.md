@@ -4,6 +4,8 @@
 ## Part 1: Getting Started
 1. Introduction
 2. Getting started with the dataset
+3. Exploring the Dataset
+4. Using Tableau for Visualization
 
 ## Part 2: Using SKLearn
 1. Splitting datasets and cross validations
@@ -30,6 +32,5 @@
 
 ## Part 4: Outside of the PyData ecosystem
 1. Using R for Gradient Boosting
-2. Using Tableau for Visualization
 
 ## Part 5: Case Study
