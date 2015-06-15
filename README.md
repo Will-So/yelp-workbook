@@ -32,5 +32,10 @@
 
 ## Part 4: Outside of the PyData ecosystem
 1. Using R for Gradient Boosting
+2. Latent Dirchlet Allocation
 
 ## Part 5: Case Study
+
+## Appendix
+1. Naive Bayes Practical Theory
+2. LDA Practical Theory
